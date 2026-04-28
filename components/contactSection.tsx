@@ -25,7 +25,7 @@ const links = [
   },
   {
     label: "LinkedIn",
-    href: "https://linkedin.com/in/elijahsow",
+    href: "https://www.linkedin.com/in/elijahbsow/",
     icon: LinkedInIcon,
     external: true,
   },
